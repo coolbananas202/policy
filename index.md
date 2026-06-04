@@ -84,7 +84,6 @@ If you have questions, concerns, or requests regarding this Privacy Policy:
 
 **Email:** bigmantim676767@gmail.com
 
-We aim to respond to all inquiries within 48 hours.
 
 ---
 
