@@ -19,9 +19,9 @@ We may collect the following types of information:
 - Customization options
 - Stored locally on your device
 
-### Web Data
+### Website Data
 - URLs you are visiting while actively using our service
-- Elements of webpages you are sometimes when starting our service
+- HTML elements of active webpage occasionally when running our service
 
 ## How We Use Your Information
 
