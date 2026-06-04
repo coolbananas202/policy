@@ -19,13 +19,16 @@ We may collect the following types of information:
 - Customization options
 - Stored locally on your device
 
+### Web Data
+- URLs you are visiting while actively using our service
+- Elements of webpages you are sometimes when starting our service
+
 ## How We Use Your Information
 
 We use the collected information to:
 
 - Provide and maintain web-war
-- Improve user experience
-- Understand usage patterns
+- Providing multiplayer features when using our service 
 - Fix bugs and technical issues
 
 ## Third-Party Services
