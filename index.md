@@ -1,6 +1,6 @@
 # Privacy Policy for web-war
 
-**Last Updated:** June 2, 2026
+**Last Updated:** June 4, 2026
 
 **Developer:** banana
 
